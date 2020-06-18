@@ -166,6 +166,7 @@ padding: 3% 2%;
     font-weight: 900;
     font-size:  3rem;
     line-height: 1.5;
+    margin-bottom: 5rem;
 }
 
 #footer
@@ -187,6 +188,10 @@ padding: 3% 2%;
     .title-image{
         position: static;
         transform: rotate(0);
+    }
+
+    .download-button{
+        margin: 8%;
     }
 
 }
