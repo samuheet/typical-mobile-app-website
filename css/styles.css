@@ -33,7 +33,7 @@ p{
 } 
 #title
 {
-    background-color: #ff4c67;
+    background-color: #ff9234;
     color: white;
 }
 
@@ -90,19 +90,19 @@ font-weight: bold;
 
 .icon
 {
-    color: #ef8172;
+    color: #ffb367;
     padding: 0 0 1rem 0;
 
 }
 .icon:hover{
-color: #ff4c68
+color: #ff9234
 }
 
 #testimonials
 {
    
     text-align: center;
-    background-color: #ef8172;
+    background-color: #ffb367;
     color: #fff;
 }
 
@@ -115,7 +115,7 @@ color: #ff4c68
 
 #press
 {
-    background-color: #ef8172;
+    background-color: #ffb367;
     text-align: center;
     padding-bottom: 3%;
     
@@ -153,7 +153,7 @@ padding: 3% 2%;
 
 #cta
 {
-  background-color: #ff4c68;  
+  background-color: #ff9234;  
   color: white;
   padding: 7% 15%;
   text-align: center;
