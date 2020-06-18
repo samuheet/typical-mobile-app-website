@@ -63,7 +63,7 @@ font-weight: bold;
 .download-button
 {
 
-    margin: 5% 3% 5% 0;
+    margin: 0% 0% 0% 2%;
 }
 
 .title-image
@@ -144,9 +144,40 @@ color: #ff4c68
 padding: 3% 2%;
 }
 
+
 .btn-signup
 {
     margin-top: 21%;
+}
+
+
+#cta
+{
+  background-color: #ff4c68;  
+  color: white;
+  padding: 7% 15%;
+  text-align: center;
+
+}
+
+.cta-head
+{
+    font-family: "Montserrat";
+    font-weight: 900;
+    font-size:  3rem;
+    line-height: 1.5;
+}
+
+#footer
+{
+    padding: 7% 15%; 
+    text-align: center;
+
+}
+
+.social-icon
+{
+    margin: 2% 2%;
 }
 
 @media (max-width: 1028px){
