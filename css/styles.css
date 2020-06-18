@@ -190,7 +190,7 @@ padding: 3% 2%;
         transform: rotate(0);
     }
 
-    .download-button{
+    #title .download-button{
         margin: 8%;
     }
 
